@@ -1,8 +1,8 @@
-### *Project Title*
+### *Project Title:*
 `Customer Personality Analysis`
-### *Technologies* 
+### *Technologies:* 
 `Machine Learning`
-### *Domain* 
+### *Domain:* 
 `Customer relationship`
 
 ## Problem Statement:
